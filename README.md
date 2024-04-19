@@ -4,7 +4,7 @@
 
 <span align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Computer+Science+Student;Full+Stack+Developer;HKU+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Computer+Science+Student;Full+Stack+Developer;HKU+Student)](https://git.io/typing-svg)
 
 </span>
 
