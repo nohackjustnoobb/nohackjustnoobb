@@ -34,8 +34,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,docker,cmake,nginx,yarn,vim)](https://skillicons.dev)
 
+<!---
 ## 📊 Github Stats
 
 ![nohackjustnoobb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohackjustnoobb&rank_icon=github)
 
 ![nohackjustnoobb's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nohackjustnoobb&show_icons=true&locale=en&layout=compact)
+-->
