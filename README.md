@@ -24,11 +24,11 @@
 
 ### Frontend Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,react,svelte)](https://skillicons.dev)
 
 ### Backend Development
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,nextjs,sqlite)](https://skillicons.dev)
 
 ### Software & Tools
 
