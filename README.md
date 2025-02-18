@@ -10,9 +10,9 @@
 
 💻 A Self-Taught Programmer
 
-📚 Currently Studying at The University of Hong Kong, BEng(CompSc) Year 2
+📚 Currently Studying at The University of Hong Kong, BEng(CompSc) Year 3
 
-🔭 Currently Working on [`Raito Manga`](https://github.com/nohackjustnoobb/Raito-Manga)
+🔭 Currently Working on [`Raito Manga`](https://github.com/nohackjustnoobb/Raito-Manga), [`RPi WidgetBox`](https://github.com/nohackjustnoobb/RPi-WidgetBox)
 
 🌟 Fun Fact: I have no life
 
@@ -20,19 +20,19 @@
 
 ### Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,go,dart,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,js,ts,go,py,java,dart)](https://skillicons.dev)
 
 ### Frontend Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,react,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,svelte,react,lit)](https://skillicons.dev)
 
 ### Backend Development
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,nextjs,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,django,nodejs,deno,express,nextjs)](https://skillicons.dev)
 
 ### Software & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,docker,cmake,nginx,yarn,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,nginx,vscode,github,figma,cmake,yarn,linux,bash)](https://skillicons.dev)
 
 <!---
 ## 📊 Github Stats
