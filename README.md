@@ -12,7 +12,7 @@
 
 📚 Currently Studying at The University of Hong Kong, BEng(CompSc) Year 3
 
-🔭 Currently Working on [`Raito Manga`](https://github.com/nohackjustnoobb/Raito-Manga), [`RPi WidgetBox`](https://github.com/nohackjustnoobb/RPi-WidgetBox)
+🔭 Currently Working on [`Only Timetable`](https://github.com/nohackjustnoobb/Only-Timetable)
 
 🌟 Fun Fact: I have no life
 
