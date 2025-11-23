@@ -8,36 +8,52 @@
 
 </span>
 
-💻 A Self-Taught Programmer
+## 🚀 About Me
+ 
+* 💻 A **Self-Taught Programmer** with a focus on building robust and scalable systems
+* 📚 Currently in **Year 4** of **BEng(CompSc)** at The University of Hong Kong (HKU)
+* 🔭 Currently Working on `My Life :(`
+* 🌟 Fun Fact: I have no life
 
-📚 Currently Studying at The University of Hong Kong, BEng(CompSc) Year 3
+## 🛠️ My Tech Stack
 
-🔭 Currently Working on [`Only Timetable`](https://github.com/nohackjustnoobb/Only-Timetable)
+I like working across the stack, from low-level systems to modern web and mobile apps.
 
-🌟 Fun Fact: I have no life
+### Core Languages & Systems Programming
+<div>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,cpp,go,py,java,swift,arduino&theme=dark" alt="Core Languages & Systems Programming Skills" />
+</div>
 
-## 🛠️ My Skills
+### Web Development & API Design
+<div>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,scss,react,nextjs,svelte,nodejs,express,django,postgres,prisma&theme=dark" alt="Web Development & API Design Skills" />
+</div>
 
-### Programming languages
+### Mobile & Cross-Platform Development
+<div>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,reactnative,xcode&theme=dark" alt="Mobile & Cross-Platform Development Skills" />
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,js,ts,go,py,java,dart)](https://skillicons.dev)
+### Infrastructure, DevOps & Tooling
+<div>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,nginx,github,git,linux,cmake,yarn,githubactions&theme=dark" alt="Infrastructure, DevOps & Tooling Skills" />
+</div>
 
-### Frontend Development
+### Desktop & Design
+<div>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=tauri,electron,figma,latex&theme=dark" alt="Desktop & Design Skills" />
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,svelte,react,lit)](https://skillicons.dev)
+## 📊 GitHub Insights
 
-### Backend Development
+<div align="center">
+  
+<a href="https://github.com/nohackjustnoobb">
+  <img src="https://github-readme-stats.vercel.app/api?username=nohackjustnoobb&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&&rank_icon=github" alt="Travis's GitHub Stats" />
+</a>
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,django,nodejs,deno,express,nextjs)](https://skillicons.dev)
+<a href="https://github.com/nohackjustnoobb">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nohackjustnoobb&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Travis's Top Languages" />
+</a>
 
-### Software & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=git,docker,nginx,vscode,github,figma,cmake,yarn,linux,bash)](https://skillicons.dev)
-
-<!---
-## 📊 Github Stats
-
-![nohackjustnoobb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohackjustnoobb&rank_icon=github)
-
-![nohackjustnoobb's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nohackjustnoobb&show_icons=true&locale=en&layout=compact)
--->
+</div>
