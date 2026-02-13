@@ -44,6 +44,7 @@ I like working across the stack, from low-level systems to modern web and mobile
     <img src="https://go-skill-icons.vercel.app/api/icons?i=tauri,electron,figma,latex&theme=dark" alt="Desktop & Design Skills" />
 </div>
 
+<!---
 ## 📊 GitHub Insights
 
 <div align="center">
@@ -57,3 +58,6 @@ I like working across the stack, from low-level systems to modern web and mobile
 </a>
 
 </div>
+
+--->
+
