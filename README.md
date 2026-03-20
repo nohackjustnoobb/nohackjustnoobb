@@ -4,7 +4,11 @@
 
 <span align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Computer+Science+Student;Full+Stack+Developer;HKU+Student)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nohackjustnoobb/nohackjustnoobb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nohackjustnoobb/nohackjustnoobb/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nohackjustnoobb/nohackjustnoobb/output/github-contribution-grid-snake.svg">
+</picture>
 
 </span>
 
@@ -60,4 +64,3 @@ I like working across the stack, from low-level systems to modern web and mobile
 </div>
 
 --->
-
