@@ -2,6 +2,10 @@
   Hi, I'm Travis <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 </h1>
 
+<p align='center'>
+ A <strong>Full-Stack Developer</strong> currently studying in <b>Year 4</b> of <b>BEng(CompSc)</b> at The University of Hong Kong (HKU)
+</p>
+
 <span align="center">
 
 <picture>
@@ -12,38 +16,34 @@
 
 </span>
 
-## 🚀 About Me
- 
-* 💻 A **Self-Taught Programmer** with a focus on building robust and scalable systems
-* 📚 Currently in **Year 4** of **BEng(CompSc)** at The University of Hong Kong (HKU)
-* 🔭 Currently Working on `My Life :(`
-* 🌟 Fun Fact: I have no life
+## 🛠️ My Skills
 
-## 🛠️ My Tech Stack
+### Programming Languages & Embedded Systems
 
-I like working across the stack, from low-level systems to modern web and mobile apps.
-
-### Core Languages & Systems Programming
 <div>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,cpp,go,py,java,swift,arduino&theme=dark" alt="Core Languages & Systems Programming Skills" />
 </div>
 
-### Web Development & API Design
+### Web Development
+
 <div>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,scss,react,nextjs,svelte,nodejs,express,django,postgres,prisma&theme=dark" alt="Web Development & API Design Skills" />
 </div>
 
-### Mobile & Cross-Platform Development
+### Mobile Development
+
 <div>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,reactnative,xcode&theme=dark" alt="Mobile & Cross-Platform Development Skills" />
 </div>
 
 ### Infrastructure, DevOps & Tooling
+
 <div>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,nginx,github,git,linux,cmake,yarn,githubactions&theme=dark" alt="Infrastructure, DevOps & Tooling Skills" />
 </div>
 
-### Desktop & Design
+### Desktop Development & Design
+
 <div>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=tauri,electron,figma,latex&theme=dark" alt="Desktop & Design Skills" />
 </div>
@@ -52,7 +52,7 @@ I like working across the stack, from low-level systems to modern web and mobile
 ## 📊 GitHub Insights
 
 <div align="center">
-  
+
 <a href="https://github.com/nohackjustnoobb">
   <img src="https://github-readme-stats.vercel.app/api?username=nohackjustnoobb&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&&rank_icon=github" alt="Travis's GitHub Stats" />
 </a>
