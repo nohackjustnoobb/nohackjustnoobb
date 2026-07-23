@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
- A <strong>Full-Stack Developer</strong> currently studying in <b>Year 4</b> of <b>BEng(CompSc)</b> at The University of Hong Kong (HKU)
+  An unemployed <strong>Full-stack Failure</strong> who graduated from the University of Hong Kong (HKU) with a major in <strong>Computer Science</strong>.
 </p>
 
 <span align="center">
