@@ -18,34 +18,34 @@
 
 ## 🛠️ My Skills
 
-### Programming Languages & Embedded Systems
+### App Development
 
 <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,cpp,go,py,java,swift,arduino&theme=dark" alt="Core Languages & Systems Programming Skills" />
+    <img src="./assets/skills/app-development.svg" alt="Swift, Xcode, Dart, Flutter, React Native" />
 </div>
 
-### Web Development
+### Systems Programming
 
 <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,scss,react,nextjs,svelte,nodejs,express,django,postgres,prisma&theme=dark" alt="Web Development & API Design Skills" />
+    <img src="./assets/skills/systems-programming.svg" alt="Rust, C++, Go" />
 </div>
 
-### Mobile Development
+### Full-Stack Web
 
 <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,reactnative,xcode&theme=dark" alt="Mobile & Cross-Platform Development Skills" />
+    <img src="./assets/skills/full-stack-web.svg" alt="TypeScript, React, Next.js, TanStack, Node.js, Java, PostgreSQL" />
 </div>
 
-### Infrastructure, DevOps & Tooling
+### Applied ML
 
 <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,nginx,github,git,linux,cmake,yarn,githubactions&theme=dark" alt="Infrastructure, DevOps & Tooling Skills" />
+    <img src="./assets/skills/applied-ml.svg" alt="Python, PyTorch, Core ML" />
 </div>
 
-### Desktop Development & Design
+### DevOps
 
 <div>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tauri,electron,figma,latex&theme=dark" alt="Desktop & Design Skills" />
+    <img src="./assets/skills/devops.svg" alt="Docker, AWS, Linux, Git, GitHub Actions" />
 </div>
 
 <!---
